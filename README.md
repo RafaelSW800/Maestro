@@ -1,35 +1,30 @@
 # Maestro
 
 ## Estória
-  Sendo um maestro famoso, o peso da idade assola a sua memória e você precisa, em plena apresentação, se lembrar das notas musicais para que a platéia não fique decepcionada por ter pago R$2.000,00 por ingresso para ouvirem uma música ruim. A música pode ficar mais complicada devido sua alta técnica musical pois você é muito experiente e criou músicas muito complexas. O objetivo é finalizar a música e não ser vaiado para poder prosseguir com seu repertório.
+  Sendo um experiente veterano de guerra, sua tarefa é concluir esse quiz sobre a Segunda Guerra Mundial para provar aos seus netos que você esteve entre as tropas de assalto que invadiram Berlim e mandaram os líderes nazistas para um lugar mais quente que Cascavel - PR. 
 
 ## Especificações
 
 ### Estrutura do Jogo
-- Sequências de notas musicais são apresentadas ao jogador.
-- O jogador deve repetir a sequência na ordem correta.
-- A dificuldade aumenta com sequências mais longas e complexas.
+- Sequências de perguntas com o tema Segunda Guerra Mundial.
 
 ### Estrutura do Cenário
-- Interface simples com botões representando notas musicais.
-- Animações sutis para indicar as notas tocadas.
+- Interface simples com botões de seleção de resposta.
 
 ### Mecânicas do Jogador
-- Clicar nos botões para repetir a sequência musical.
-- Memorizar e repetir as sequências corretamente.
+- Clicar na opção correta para cada pergunta e então selecionar "responder".
 
 ### Sistema de Pontuação
-- Pontos por sequências completadas com sucesso.
-- Bônus por sequências perfeitas.
+- Para cada acerto o jogador avança para a próxima pergunta.
+- Para cada erro o jogador retorna ao início e precisa reiniciar o quiz.
 
 ### Finais
-- Aplausos e gratificação.
-- Ser vaiado por falhar, fim de jogo.
+- Parabenização por concluir o jogo.
+- Falha: retorno ao início para reiniciar quiz.
 
 ### Opções de Menu
-Iniciar Jogo, Sair.
+Iniciar Jogo, Sair, retornar ao início.
 
 ### Diferenciais
-- Jogabilidade relaxante e desafiadora.
-- Desenvolvimento de habilidades de memória musical.
-- Estilo visual e sonoro agradável.
+- Interface agradável.
+- Perguntas aleatórias para todos os níveis de estudiosos.
